@@ -1,0 +1,9 @@
+.container {
+margin: 20px;
+}
+
+.buttons{
+    margin-top: 1vh;
+    display: flex;
+    justify-content: space-between;
+}
